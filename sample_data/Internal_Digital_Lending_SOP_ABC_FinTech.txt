@@ -1,0 +1,30 @@
+ABC FINTECH NBFC - DIGITAL LENDING SOP (INTERNAL POLICY)
+Sample document with intentional compliance gaps for testing
+
+1. PURPOSE
+Govern digital personal loan origination via mobile app and web (up to INR 5 lakh).
+
+2. ELIGIBILITY & ONBOARDING
+PAN verification, Aadhaar OTP, bank statement upload, credit bureau pull required.
+
+3. LOAN APPLICATION WORKFLOW
+Select amount/tenure -> credit scoring -> offer with rate and EMI -> OTP accept ->
+e-sign agreement -> disbursement within 24 hours.
+
+4. INTEREST & FEES
+Interest 18%-36% p.a. Processing fee up to 3%. Late penalty 2% per month on overdue EMI.
+
+5. COLLECTIONS
+EMI via UPI auto-pay if customer opts in. Field collection after 60 DPD.
+
+6. PARTNER INTEGRATION
+Leads from digital marketplace partners via API. Commission per disbursed loan.
+
+7. IT SECURITY
+AES-256 at rest, TLS 1.2 in transit. Authorized staff access. Annual VAPT.
+
+8. ROLES
+Product, Operations, Risk, Compliance quarterly review.
+
+NOTE: This SOP intentionally omits KFS, cooling-off, grievance redressal, data retention,
+APR, LSP oversight, direct disbursement, explicit auto-debit consent, Video KYC, and FPC.

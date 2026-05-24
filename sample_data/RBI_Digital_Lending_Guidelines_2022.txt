@@ -1,0 +1,41 @@
+RBI DIGITAL LENDING GUIDELINES (2022) - SAMPLE CIRCULAR
+Reserve Bank of India | For Compliance Engine Testing
+
+SECTION 1 - INTRODUCTION
+Regulated entities (REs) and Lending Service Providers (LSPs) must ensure transparent,
+fair, and borrower-centric digital lending practices.
+
+SECTION 3.2 - KEY FACT STATEMENT (KFS)
+REs shall provide a Key Fact Statement (KFS) to the borrower in standardized format
+before execution of the loan contract. Borrower acknowledgment of KFS must be obtained
+prior to disbursement.
+
+SECTION 3.4 - TRANSPARENT PRICING
+The all-inclusive Annual Percentage Rate (APR) must be disclosed prominently.
+Total cost of borrowing including all fees and charges must be stated clearly.
+
+SECTION 4.1 - COOLING-OFF / LOOK-UP PERIOD
+Borrowers must be given a cooling-off period (minimum 3 days) or look-up period
+during which they may exit the digital loan without penalty.
+
+SECTION 4.3 - DISBURSEMENT
+Loan amount shall be disbursed directly to the borrower's bank account only.
+
+SECTION 4.5 - AUTO-DEBIT / REPAYMENT
+Setting up auto-debit or e-mandate/NACH requires explicit consent from the borrower.
+
+SECTION 5.3 - DATA PRIVACY
+Data minimization, purpose limitation, need-to-know access, data retention and
+data deletion policies are mandatory.
+
+SECTION 2.2 - LSP OVERSIGHT
+RE remains responsible for LSP actions. LSP oversight and third party oversight required.
+
+SECTION 6 - GRIEVANCE REDRESSAL
+Grievance redressal mechanism with complaint mechanism and escalation matrix required.
+
+KYC - VIDEO KYC (V-CIP)
+Video KYC and video-based identification for remote onboarding per RBI KYC Directions.
+
+FAIR PRACTICES CODE
+Regulated entities must adopt and publish Fair Practices Code (FPC).

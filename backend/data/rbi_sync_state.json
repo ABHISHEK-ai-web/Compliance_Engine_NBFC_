@@ -1,0 +1,39 @@
+{
+  "synced_urls": [
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13453&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62660",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62667",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13459&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13456&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62795",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62798",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62792",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13457&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13460&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13455&Mode=0",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13458&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62665",
+    "https://www.rbi.org.in/scripts/NotificationUser.aspx?Id=13454&Mode=0",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62797",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62793",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62663",
+    "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62664"
+  ],
+  "last_sync_at": "2026-05-24T13:26:51.438981+00:00",
+  "history": [
+    {
+      "at": "2026-05-23T16:58:06.696656+00:00",
+      "new": 13,
+      "skipped": 0,
+      "failed": 2,
+      "fetched": 15
+    },
+    {
+      "at": "2026-05-24T13:26:51.438981+00:00",
+      "new": 5,
+      "skipped": 8,
+      "failed": 2,
+      "fetched": 15
+    }
+  ]
+}
